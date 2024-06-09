@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Riya Arora and I'm a future Software Engineer from India</p>
+<p align="left">My name is Riya Arora and I'm a future Software Engineer from India.</p>
 
 ###
 
